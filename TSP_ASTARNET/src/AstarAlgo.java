@@ -67,7 +67,8 @@ public class AstarAlgo {
 		for(int i = 0; i < this.path.length; i++){
 			System.out.print(path[i] + " ");
 		}
+		System.out.print('1');
 		System.out.println();
-		System.out.print("Cost = " + this.costNow);
+		//System.out.print("Cost = " + this.costNow);
 	}
 }

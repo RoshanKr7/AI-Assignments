@@ -1,0 +1,34 @@
+Which type of battle, do you want?
+1.Human vs AI
+2.AI vs AI
+(Type the Required number)
+2                                                   // For AI vs AI Game
+Initial No of Sticks?
+10
+======================
+Player 2 has won the toss
+======================
+No. of Sticks Left in the Heap is 10
+player 2, what is your action?
+Chosen action is 1
+======================
+No. of Sticks Left in the Heap is 9
+player 1, what is your action?
+Chosen action is 1
+======================
+No. of Sticks Left in the Heap is 8
+player 2, what is your action?
+Chosen action is 3
+======================
+No. of Sticks Left in the Heap is 5
+player 1, what is your action?
+Chosen action is 1
+======================
+No. of Sticks Left in the Heap is 4
+player 2, what is your action?
+Chosen action is 3
+======================
+No. of Sticks Left in the Heap is 1
+player 1, what is your action?
+Chosen action is 1
+GAME OVER: Player 2 wins!
